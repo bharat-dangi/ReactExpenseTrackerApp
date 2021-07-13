@@ -1,7 +1,8 @@
-Demo Image:
+# React Expense Tracker App
+# Demo Image:
 ![Screenshot (164)](https://user-images.githubusercontent.com/71741384/125410428-98c09400-e3dc-11eb-8c54-015fb1ae54a7.png)
 
-Demo Link:
+# Demo Link:
 https://speechly-expense-tracker-react.netlify.app/
 
 
