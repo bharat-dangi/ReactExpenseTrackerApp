@@ -6,7 +6,7 @@
 https://speechly-expense-tracker-react.netlify.app/
 
 ## Introduction
-A practice project which track the expenses and incomes record using React concepts and speechly. This is a complete application build using ReactJS in which you can store your transaction and this application will store those transaction on local storage so that transactions will remain even after refreshing the browser. You can also add new transactions by your voice and this feature is made possible by using speechly API.
+A practice project which track the expenses and incomes record using React concepts and speechly. This is a complete application build using ReactJS in which you can store your transaction and this application will store those transaction on local storage so that transactions will remain even after refreshing the browser.Your income and expense transaction will be shown in chart also. You can also add new transactions by your voice and this feature is made possible by using speechly API.
 ### `React Concepts used in this application`
 Context API, State Management, Local Storage, UseEffect Hook, React Components
 
